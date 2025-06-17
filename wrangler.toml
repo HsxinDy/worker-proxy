@@ -1,0 +1,6 @@
+name = "drive-image-proxy"
+type = "javascript"
+
+workers_dev = true
+
+compatibility_date = "2024-06-01"
