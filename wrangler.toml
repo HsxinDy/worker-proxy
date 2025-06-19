@@ -1,5 +1,6 @@
 name = "drive-image-proxy"
 type = "javascript"
+main = "src/index.js"
 workers_dev = true
 compatibility_date = "2024-06-01"
-module = true  
+module = true
